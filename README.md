@@ -8,8 +8,8 @@
   1.2. 제한시간 60초
   1.3. 정답개수 카운팅 됨
   1.4. 제한시간 종료시 "TIME OUT" 텍스트와 정답 개수가 표시됨
-<img width="50%" src="https://user-images.githubusercontent.com/55493421/184545582-1d395aab-e3e5-400f-a613-defaa27083a8.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/55493421/184545783-e1d6da24-88cc-4ee5-9596-f5ea8973ac10.jpg"/>
+<img width="50%" align="left" src="https://user-images.githubusercontent.com/55493421/184545582-1d395aab-e3e5-400f-a613-defaa27083a8.jpg"/>
+<img width="50%" align="right" src="https://user-images.githubusercontent.com/55493421/184545783-e1d6da24-88cc-4ee5-9596-f5ea8973ac10.jpg"/>
 
 2. 정답확인 버튼<br>
   2.1. 정답이 맞을 경우: 다음 문제 랜덤 제출
