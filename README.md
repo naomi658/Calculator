@@ -7,7 +7,7 @@
   1.1. 랜덤으로 문제 나옴
   1.2. 제한시간 60초
   1.3. 정답개수 카운팅 됨
-  1.4. 제한시간 종료시 "TIME OUT" 텍스트와 정답 개수가 표시됨
+  1.4. 제한시간 종료시 "TIME OUT" 텍스트와 정답 개수가 표시됨<br>
 <img width="50%" align="left" src="https://user-images.githubusercontent.com/55493421/184545582-1d395aab-e3e5-400f-a613-defaa27083a8.jpg"/>
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/55493421/184545783-e1d6da24-88cc-4ee5-9596-f5ea8973ac10.jpg"/>
 
